@@ -1,0 +1,38 @@
+.search-bar {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding-top: 30px;
+}
+#resultado{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top:10px;
+    
+
+}
+
+ table thead tr{
+    width: 100px;
+    background: #333;
+    color:#FFF;
+    height: 40px;
+    text-align:center;
+}
+
+table tbody td{
+    width: 100px;
+    height: 40px;
+    text-align:center;
+}
+
+.box{
+    text-align: center;
+}
+
+#datamex{
+    width: 250px;
+    height: 150px;
+    padding: 30px;
+}
